@@ -1,0 +1,65 @@
+*{
+    
+    font-family: 'Hubballi', cursive;
+}
+
+.header{
+    height: 700px;
+    width: 500px;
+}
+.description ,.material,.weight{
+    width: 430px;
+}
+.description h2,.material h2 ,.weight h2{
+    color:black;
+    font-size: 30px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    margin-left: 20px;
+}
+.description p,.material p ,.weight p{
+    letter-spacing: 1px;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 20px;
+
+}
+.specification{
+    height: 300px;
+    width: 300px;
+    margin-left: 100px;
+}
+.specification h2{
+    color:black;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.specification li{
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.essentail h2{
+    color: black;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.essentail {
+    height: 400px;
+    width:500px;
+    margin-left: 50px;
+}
+.essentail p{
+    font-size: 20px;
+    text-align: justify;
+}
+.wraps{
+    display: flex;
+    background-color: #dfe4ea;
+    height: 650px;
+    border-radius: 20px;
+}
+.progress{
+    height: 10px;
+    width: 200px;
+    color: black;
+}
